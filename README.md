@@ -68,6 +68,8 @@ Iterates through all result pages.
 
 Downloads PDFs from individual document pages using the button with ID pdfdoc.
 
+![Code Page](/assest/goThrough.png)
+
 ---
 
 ## 📁 Output
