@@ -75,7 +75,7 @@ All downloaded PDF files are saved in the /court_docs directory relative to the 
 ---
 ```markdown
 
-Problem Which is Solved :[problem] (assest\problem.md)
+[Problem Which is Solved] (assest/problem.md)
 ```
 
 🛠️ Customization
