@@ -72,6 +72,11 @@ Downloads PDFs from individual document pages using the button with ID pdfdoc.
 
 ## 📁 Output
 All downloaded PDF files are saved in the /court_docs directory relative to the script location.
+---
+```markdown
+
+Problem Which is Solved :[problem] (assest\problem.md)
+```
 
 🛠️ Customization
 You can adjust the script to:
