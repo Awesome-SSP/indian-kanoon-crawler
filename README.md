@@ -70,7 +70,7 @@ Downloads PDFs from individual document pages using the button with ID pdfdoc.
 
 ---
 
-📁 Output
+## 📁 Output
 All downloaded PDF files are saved in the /court_docs directory relative to the script location.
 
 🛠️ Customization
@@ -91,7 +91,8 @@ MIT License — feel free to use, modify, and share.
 
 ---
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
+
 Made with ❤️ by Awesome-SSP
 
 Let the law be accessible — one PDF at a time.
